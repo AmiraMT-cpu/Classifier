@@ -1,2 +1,3 @@
 # Classifier
-Build a classifier on a game of credit scoring dataset (credit_scoring.csv)
+Build a Classifier on a credit scoring dataset
+The objective in this part is to apply a supervised learning algorithm on a credit scoring dataset in order to analyze the risks of a credit demand by the lenders.
